@@ -8,6 +8,10 @@
 			"Name": "Luminance",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/528275eacaf34e939b990de31c9dca03"
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	]
 }
